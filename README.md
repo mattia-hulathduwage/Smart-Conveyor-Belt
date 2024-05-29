@@ -1,5 +1,5 @@
 # Conveyor-Belt
-Arduino IDE code for a Conveyor Belt with weight sensors and Dimensional reading (sensing the height & width).
+C++ coding for a Smart Conveyor Belt with weight sensors & Dimensional reading with LCD displaying(sensing the height & width).
 
 Directions:
 1.Download the zip file from the following tab.

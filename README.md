@@ -1,4 +1,4 @@
-# Conveyor-Belt
+# Smart-Conveyor-Belt
 C++ coding for a Smart Conveyor Belt with weight sensors & Dimensional reading with LCD displaying(sensing the height & width).
 
 Directions:
